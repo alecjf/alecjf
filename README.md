@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alecjf
 - 👀 I’m interested in biking, Buddhism and the beach.
-- 🌱 I’m currently learning everything I possibly can about JavaScript and React.
-- 💞️ I’m looking to collaborate on clean, responsive React pages for small businesses.
+- 🌱 I’m currently learning everything I possibly can about WordPress and React.
+- 💞️ I’m looking to collaborate on clean, responsive pages for small businesses.
 - 📫 How to reach me: al@fern.haus or on Twitter @fern_haus
 
 <!---
